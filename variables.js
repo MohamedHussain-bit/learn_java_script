@@ -2,3 +2,6 @@
 // var 
 var nameVaeiable = "valuo"
 console.log(nameVaeiable)
+
+// let
+let nameVariable2 = "valuo"
