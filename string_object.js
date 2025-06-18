@@ -27,3 +27,5 @@ console.log(nameUser.substr(-6 ,6));
 console.log(nameUser.includes("jv"));
 // startWith() cheack the string start whith element
 console.log(nameUser.startsWith("M"));
+// endsWith() cheack if the string end mlement
+console.log(nameUser.endsWith("m"));
