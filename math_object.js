@@ -17,3 +17,5 @@ console.log(Math.random());
 console.log(Math.trunc(100.500));
 // Math.sqrt() return the number sqrt
 console.log(Math.sqrt(100));
+// Math.abs() return the number positive
+console.log(Math.abs(-100));
