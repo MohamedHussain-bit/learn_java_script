@@ -15,3 +15,5 @@ console.log(Math.pow(5,2));
 console.log(Math.random());
 // Math.trunc() cut the number from .
 console.log(Math.trunc(100.500));
+// Math.sqrt() return the number sqrt
+console.log(Math.sqrt(100));
