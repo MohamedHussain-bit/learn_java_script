@@ -12,3 +12,5 @@ console.log(name1.trim().charAt(5).toUpperCase());
 console.log(name1.indexOf("e"));
 // lastIndexOf() sarch the element in the string in the end
 console.log(name1.lastIndexOf("M"));
+// slice(start , end) cut the string
+console.log(name1.slice(2 , 8));
