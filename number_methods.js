@@ -9,4 +9,7 @@ let visetor = 1000.123456789;
 console.log(visetor.toFixed(2));
 // parseInt() return number
 let age = "19 from Mohamed";
-console.log(parseInt(age))
+console.log(parseInt(age));
+// parseFloot() because return number float
+let salary = "10000.500 from Mohamed";
+console.log(parseFloat(salary).toFixed(3));
