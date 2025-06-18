@@ -10,4 +10,6 @@ console.log(Math.min(1,2,3,4,5,6));
 // Math.max() return max number
 console.log(Math.max(1,2,3,4,5,6));
 // Math.pow() return power of the number
-console.log(Math.pow(5,2))
+console.log(Math.pow(5,2));
+// Math.random() return random dicimal number
+console.log(Math.random());
