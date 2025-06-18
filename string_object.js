@@ -23,3 +23,5 @@ let nameUser = "Mohanad Hesham";
 console.log(nameUser.substring(8 , 14));
 // substr(start , numChar) cut string
 console.log(nameUser.substr(-6 ,6));
+// includes() cheack if the string contain element
+console.log(nameUser.includes("jv"));
