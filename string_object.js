@@ -25,3 +25,5 @@ console.log(nameUser.substring(8 , 14));
 console.log(nameUser.substr(-6 ,6));
 // includes() cheack if the string contain element
 console.log(nameUser.includes("jv"));
+// startWith() cheack the string start whith element
+console.log(nameUser.startsWith("M"));
