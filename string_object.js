@@ -6,3 +6,5 @@ console.log(name1.trim());
 console.log(name1.toUpperCase());
 // toLowerCase() turn the alphbet caracrters to lower case
 console.log(name1.toLowerCase());
+// charAt() return the posetion element in string
+console.log(name1.trim().charAt(5).toUpperCase());
