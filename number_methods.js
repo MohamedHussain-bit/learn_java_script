@@ -16,3 +16,6 @@ console.log(parseFloat(salary).toFixed(3));
 // Number.isInteger() check if the number integer
 let theNum = 100.5
 console.log(Number.isInteger(theNum))
+// Number.isNan() check if the number is number
+let name1 = "Mohamed"
+console.log(Number.isNaN(name1))
