@@ -14,3 +14,5 @@ console.log(name1.indexOf("e"));
 console.log(name1.lastIndexOf("M"));
 // slice(start , end) cut the string
 console.log(name1.slice(2 , 8));
+// repete() to repeat string
+console.log(name1.repeat(5));
