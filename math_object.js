@@ -13,3 +13,5 @@ console.log(Math.max(1,2,3,4,5,6));
 console.log(Math.pow(5,2));
 // Math.random() return random dicimal number
 console.log(Math.random());
+// Math.trunc() cut the number from .
+console.log(Math.trunc(100.500));
