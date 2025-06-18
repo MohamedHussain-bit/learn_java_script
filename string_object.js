@@ -16,3 +16,5 @@ console.log(name1.lastIndexOf("M"));
 console.log(name1.slice(2 , 8));
 // repete() to repeat string
 console.log(name1.repeat(5));
+// split() turn the string to array
+console.log(name1.split(""));
