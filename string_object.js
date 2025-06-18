@@ -18,3 +18,6 @@ console.log(name1.slice(2 , 8));
 console.log(name1.repeat(5));
 // split() turn the string to array
 console.log(name1.split(""));
+// supstring(start , end) cut the string
+let nameUser = "Mohanad Hesham";
+console.log(nameUser.substring(8 , 14))
