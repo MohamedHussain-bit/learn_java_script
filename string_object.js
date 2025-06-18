@@ -9,4 +9,6 @@ console.log(name1.toLowerCase());
 // charAt() return the posetion element in string
 console.log(name1.trim().charAt(5).toUpperCase());
 // indexOf() sarch the element in the string
-console.log(name1.indexOf("e"))
+console.log(name1.indexOf("e"));
+// lastIndexOf() sarch the element in the string in the end
+console.log(name1.lastIndexOf("M"));
