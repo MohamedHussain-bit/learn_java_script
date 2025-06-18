@@ -13,3 +13,6 @@ console.log(parseInt(age));
 // parseFloot() because return number float
 let salary = "10000.500 from Mohamed";
 console.log(parseFloat(salary).toFixed(3));
+// Number.isInteger() check if the number integer
+let theNum = 100.5
+console.log(Number.isInteger(theNum))
