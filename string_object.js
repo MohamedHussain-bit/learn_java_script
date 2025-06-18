@@ -8,3 +8,5 @@ console.log(name1.toUpperCase());
 console.log(name1.toLowerCase());
 // charAt() return the posetion element in string
 console.log(name1.trim().charAt(5).toUpperCase());
+// indexOf() sarch the element in the string
+console.log(name1.indexOf("e"))
