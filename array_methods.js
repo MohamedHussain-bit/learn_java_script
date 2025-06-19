@@ -17,3 +17,5 @@ console.log(user)
 console.log(user.indexOf("Mena"))
 // lastIndexOf() sarch to the array
 console.log(user.lastIndexOf("Mena"))
+// includes() cheack if the array include element
+console.log(user.includes("Mena"))
