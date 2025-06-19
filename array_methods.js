@@ -19,3 +19,5 @@ console.log(user.indexOf("Mena"))
 console.log(user.lastIndexOf("Mena"))
 // includes() cheack if the array include element
 console.log(user.includes("Mena"))
+// sort() sorting to the array
+console.log(user.sort())
