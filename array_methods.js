@@ -13,3 +13,5 @@ console.log(user)
 // pop() remove last element to the array
 user.pop()
 console.log(user)
+// indexOf() sarch to the array
+console.log(user.indexOf("Mena"))
