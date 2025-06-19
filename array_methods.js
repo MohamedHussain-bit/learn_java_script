@@ -10,3 +10,6 @@ console.log(user)
 //  shift() remove first element to the array
 user.shift()
 console.log(user)
+// pop() remove last element to the array
+user.pop()
+console.log(user)
