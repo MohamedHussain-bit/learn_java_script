@@ -21,3 +21,5 @@ console.log(user.lastIndexOf("Mena"))
 console.log(user.includes("Mena"))
 // sort() sorting to the array
 console.log(user.sort())
+// reverse() reversed to the array
+console.log(user.reverse())
