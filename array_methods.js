@@ -7,3 +7,6 @@ console.log(user)
 // push() add element to the end
 user.push("Mena" , "Yassmen")
 console.log(user)
+//  shift() remove first element to the array
+user.shift()
+console.log(user)
