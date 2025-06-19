@@ -15,3 +15,5 @@ user.pop()
 console.log(user)
 // indexOf() sarch to the array
 console.log(user.indexOf("Mena"))
+// lastIndexOf() sarch to the array
+console.log(user.lastIndexOf("Mena"))
