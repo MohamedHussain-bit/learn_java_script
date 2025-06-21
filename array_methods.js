@@ -25,3 +25,5 @@ console.log(user.sort())
 console.log(user.reverse())
 // slice() cut the array
 console.log(user.slice(1 , 5))
+// splice() delete and add to the array
+console.log(user.splice(1,0,"Mai"))
