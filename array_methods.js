@@ -30,3 +30,5 @@ console.log(user.splice(1,0,"Mai"))
 // concat() concat to the arrays 
 let user2 = ["Tqwa" , "Fareda"]
 console.log(user.concat(user2))
+// join() turn array to string
+console.log(user.join(" @ "))
