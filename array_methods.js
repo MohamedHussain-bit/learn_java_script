@@ -23,3 +23,5 @@ console.log(user.includes("Mena"))
 console.log(user.sort())
 // reverse() reversed to the array
 console.log(user.reverse())
+// slice() cut the array
+console.log(user.slice(1 , 5))
