@@ -27,3 +27,6 @@ console.log(user.reverse())
 console.log(user.slice(1 , 5))
 // splice() delete and add to the array
 console.log(user.splice(1,0,"Mai"))
+// concat() concat to the arrays 
+let user2 = ["Tqwa" , "Fareda"]
+console.log(user.concat(user2))
