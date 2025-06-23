@@ -31,3 +31,6 @@ let User2 = {
 let User3 = new Object({
     nameUser3 : "Mena"
 }) 
+// assign()
+let all = Object.assign({} , User , User2 , User3)
+console.log(all)
