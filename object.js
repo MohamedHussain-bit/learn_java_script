@@ -12,3 +12,18 @@ let User = {
 console.log(User.nameUser)
 console.log(User.age)
 console.log(User.sayHello())
+// nested object
+let User2 = {
+    // propertes
+    nameUser : "Ali",
+    age : 20,
+    // methodes
+    sayHello : function(){
+        return `Hello ${this.nameUser}`
+    },
+    // nested object
+    addres : {
+        egypt : "ALshai5 Zaied",
+        kas : "ALriade"
+    }
+}
