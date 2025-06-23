@@ -15,7 +15,7 @@ console.log(User.sayHello())
 // nested object
 let User2 = {
     // propertes
-    nameUser : "Ali",
+    nameUser2 : "Ali",
     age : 20,
     // methodes
     sayHello : function(){
@@ -27,3 +27,7 @@ let User2 = {
         kas : "ALriade"
     }
 }
+// new Object()
+let User3 = new Object({
+    nameUser3 : "Mena"
+}) 
