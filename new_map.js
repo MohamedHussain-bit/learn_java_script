@@ -7,3 +7,9 @@ console.log(myMap.get("age"))
 console.log(myMap.get(10))
 console.log(myMap.get(true))
 console.log(myMap.size)
+let newMap = new Map([
+    ["name" , "string"]
+    [100 , "number"]
+    [false , "bollen"]
+])
+
