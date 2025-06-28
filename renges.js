@@ -7,3 +7,7 @@ console.log(tld.match(tldRe))
 let num = "12345678910"
 let numRe = /[0-5]/g
 console.log(num.match(numRe))
+// ^ => not
+let num2 = "12345678910"
+let numRe2 = /[^0-5]/g
+console.log(num2.match(numRe2))
