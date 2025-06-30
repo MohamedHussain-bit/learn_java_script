@@ -5,3 +5,6 @@ console.log(dateNow)
 console.log(Date.now())
 // Date.getTime() return date milleSacond
 console.log(dateNow.getTime())
+// getDate() 
+console.log(dateNow.getDate())
+// 
