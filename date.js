@@ -7,4 +7,5 @@ console.log(Date.now())
 console.log(dateNow.getTime())
 // getDate() 
 console.log(dateNow.getDate())
-// 
+// getFullYear()
+console.log(dateNow.getFullYear())
