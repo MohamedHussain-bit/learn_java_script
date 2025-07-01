@@ -1,0 +1,10 @@
+{
+    "string" : "Mohamed",
+    "number" : 100,
+    "object" :{
+        "EG" : "Almansora",
+        "KSA" : "Riyadh"
+    },
+    "array" : [1,2,3,4,5],
+    "null" : null
+}
